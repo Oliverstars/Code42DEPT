@@ -1,5 +1,5 @@
 ## A 2D Entity Pair Tagging Scheme for Relation Triplet Extraction
-This repository contains the source code and datasets for the paper: **A 2D Entity Pair Tagging Scheme for Relation Triplet Extraction**, Liu Xu, Zhang Yonggang.
+This repository contains the source code and datasets for the paper: **A 2D Entity Pair Tagging Scheme for Relation Triplet Extraction**.
 ## Framework
 1. **The Directory: _data_**
 
