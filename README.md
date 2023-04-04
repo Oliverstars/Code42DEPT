@@ -59,6 +59,3 @@ This repository contains the source code and datasets for the paper: **A 2D Enti
     The extracted results will be saved in `result/NYT`.
 
 
-## **Acknowledgment**
-
-I am deeply grateful for the inspiration of paper: **OneRel: Joint Entity and Relation Extraction with One Model in One Step**, Yu-Ming Shang, Heyan Huang and Xian-Ling Mao, AAAI-2022.
